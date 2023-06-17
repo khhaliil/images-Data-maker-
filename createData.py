@@ -2,7 +2,7 @@ import cv2
 import os
 import time
 # kz
-path = 'C:/Users/MSI/Desktop/khalil/OpenCV/Data/img'
+path = #select your path
 cameraNo = 0
 cameraBrightness = 500
 frq = 8
